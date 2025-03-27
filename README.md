@@ -16,6 +16,14 @@ ollama run phi3
 streamlit run ai_humanizer.py
 ```
 
+## Screenshots 📸
+
+### AI Humanizing Process
+![AI Humanizing Process](screenshots/image.png)
+
+### AI Detection Process
+![AI Detection Process](screenshots/image1.png)
+
 ## Features ✨
 
 ### Text Humanization
